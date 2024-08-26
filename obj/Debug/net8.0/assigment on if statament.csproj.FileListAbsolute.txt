@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\assigment on if statament\bin\Debug\net8.0\assigment on if statament.exe
+C:\Users\DELL\Desktop\assigment on if statament\bin\Debug\net8.0\assigment on if statament.deps.json
+C:\Users\DELL\Desktop\assigment on if statament\bin\Debug\net8.0\assigment on if statament.runtimeconfig.json
+C:\Users\DELL\Desktop\assigment on if statament\bin\Debug\net8.0\assigment on if statament.dll
+C:\Users\DELL\Desktop\assigment on if statament\bin\Debug\net8.0\assigment on if statament.pdb
+C:\Users\DELL\Desktop\assigment on if statament\obj\Debug\net8.0\assigment on if statament.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\assigment on if statament\obj\Debug\net8.0\assigment on if statament.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\assigment on if statament\obj\Debug\net8.0\assigment on if statament.AssemblyInfo.cs
+C:\Users\DELL\Desktop\assigment on if statament\obj\Debug\net8.0\assigment on if statament.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\assigment on if statament\obj\Debug\net8.0\assigment on if statament.dll
+C:\Users\DELL\Desktop\assigment on if statament\obj\Debug\net8.0\refint\assigment on if statament.dll
+C:\Users\DELL\Desktop\assigment on if statament\obj\Debug\net8.0\assigment on if statament.pdb
+C:\Users\DELL\Desktop\assigment on if statament\obj\Debug\net8.0\assigment on if statament.genruntimeconfig.cache
+C:\Users\DELL\Desktop\assigment on if statament\obj\Debug\net8.0\ref\assigment on if statament.dll
